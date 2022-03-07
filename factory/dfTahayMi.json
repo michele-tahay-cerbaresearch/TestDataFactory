@@ -1,0 +1,9 @@
+{
+	"name": "dfTahayMi",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28ca766d-5382-463b-8eab-703a45bef652",
+		"tenantId": "f5c3fb5f-7cd6-4ec1-bf88-ada4a2aadfa1"
+	}
+}
